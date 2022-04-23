@@ -8,6 +8,7 @@ namespace Tutorial {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("nou");
+            Console.WriteLine("hahaugay!");
         }
     }
 }
