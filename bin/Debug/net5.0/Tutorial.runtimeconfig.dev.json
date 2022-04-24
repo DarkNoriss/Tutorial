@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MyAngelCamellia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MyAngelCamellia\\.nuget\\packages"
+    ]
+  }
+}
