@@ -1,0 +1,16 @@
+D:\VSC\C#\Tutorial\bin\Debug\net5.0\Tutorial.exe
+D:\VSC\C#\Tutorial\bin\Debug\net5.0\Tutorial.deps.json
+D:\VSC\C#\Tutorial\bin\Debug\net5.0\Tutorial.runtimeconfig.json
+D:\VSC\C#\Tutorial\bin\Debug\net5.0\Tutorial.runtimeconfig.dev.json
+D:\VSC\C#\Tutorial\bin\Debug\net5.0\Tutorial.dll
+D:\VSC\C#\Tutorial\bin\Debug\net5.0\ref\Tutorial.dll
+D:\VSC\C#\Tutorial\bin\Debug\net5.0\Tutorial.pdb
+D:\VSC\C#\Tutorial\obj\Debug\net5.0\Tutorial.csprojAssemblyReference.cache
+D:\VSC\C#\Tutorial\obj\Debug\net5.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\C#\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfoInputs.cache
+D:\VSC\C#\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfo.cs
+D:\VSC\C#\Tutorial\obj\Debug\net5.0\Tutorial.csproj.CoreCompileInputs.cache
+D:\VSC\C#\Tutorial\obj\Debug\net5.0\Tutorial.dll
+D:\VSC\C#\Tutorial\obj\Debug\net5.0\ref\Tutorial.dll
+D:\VSC\C#\Tutorial\obj\Debug\net5.0\Tutorial.pdb
+D:\VSC\C#\Tutorial\obj\Debug\net5.0\Tutorial.genruntimeconfig.cache
