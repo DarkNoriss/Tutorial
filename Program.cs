@@ -15,10 +15,11 @@ namespace Tutorial {
 
             Console.WriteLine("I am GOD \nand im better than u!");
             Console.WriteLine("Whats ur fav animal?");
+            if (Console.ReadLine().Length > 5) {
+                Console.WriteLine("Cool but who asked?");
+            }
 
-            Console.ReadLine();
-
-            Console.WriteLine("Cool but who asked?");
+            Console.WriteLine("Thats nice");
 
             Console.ReadKey();
 
